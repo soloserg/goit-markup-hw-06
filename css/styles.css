@@ -927,6 +927,16 @@ color: var(--accent-color);
 text-decoration: underline;
 }
 
+.modal-link {
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  text-decoration-line: underline;
+  
+  color: var(--accent-color);
+  text-decoration: none;
+}
+
 .modal-button {
   color: var(--primary-white-color);
   background-color: var(--accent-color);
