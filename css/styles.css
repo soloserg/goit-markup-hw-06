@@ -918,6 +918,15 @@ border: none;
 fill: var(--primary-white-color);
 }
 
+.modal-field .modal-check-text .modal-link {
+font-size: 14px;
+line-height: 1.71;
+letter-spacing: 0.03em;
+
+color: var(--accent-color);
+text-decoration: underline;
+}
+
 .modal-button {
   color: var(--primary-white-color);
   background-color: var(--accent-color);
